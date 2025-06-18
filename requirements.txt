@@ -3,4 +3,4 @@ numpy
 serpapi
 gunicorn
 pandas
-
+google-search-results
