@@ -1,5 +1,6 @@
-Flask==3.0.3 
-pandas==2.2.1 
-numpy==1.26.4 
-serpapi==0.1.5 
-gunicorn==23.0.0
+Flask
+numpy
+serpapi
+gunicorn
+pandas
+
