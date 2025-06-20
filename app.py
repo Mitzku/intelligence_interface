@@ -6,7 +6,7 @@ from utils.search_functions import perform_google_search
 
 app = Flask(__name__)
 
-API_KEY = "5a62bf2d11d72e0672c9000fcf9dd0ec9113237e4e334889df56acdabdb640ed"
+API_KEY = "f6d8379e68815bc7a18d1680ea24398ef22d50da7c7b56f06726e639a2e212ea"
 
 
 @app.route('/', methods=['GET', 'POST'])
